@@ -1,0 +1,35 @@
+*{
+    color : black;
+    size: 10px;
+    background-color: burlywood ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    background-image: url("WhatsApp Image 2023-02-22 at 11.47.34 (1).jpeg");
+
+}
+header{
+    color: white;
+    size: 100px;
+    background-color: aliceblue;
+}
+h1{
+    color: darkslategrey;
+}
+input:hover{
+    background-color: aquamarine;
+}
+input{
+    background-color: lightslategray;
+    border: 0ch;
+    height: 30px;
+    width: 200px;
+    color : white;
+    opacity: 0.6;
+}
+ln{
+    
+    position: absolute;
+    color: black;
+    right: 50%;  
+    font-size: larger;  
+}

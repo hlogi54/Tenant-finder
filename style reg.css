@@ -1,0 +1,19 @@
+*{
+    color: black;
+    font-size: large;
+    border-color: green;
+    right: 50%;
+    float: inline-end;
+    font-weight: bold;
+}
+button {
+    border-radius: 10%;
+    background-color: rgb(160, 95, 138);
+    font-size: larger;
+    border: 0ch;
+}
+input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+}
